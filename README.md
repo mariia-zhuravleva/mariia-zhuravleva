@@ -66,7 +66,7 @@ As a Software Engineer, I specialize in developing elegant solutions that not on
 ---
 <details>
   <summary><b>📊 GitHub Stats </b></summary>
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-zhuravleva&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariia-zhuravleva&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </details>
 
 ---
