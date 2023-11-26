@@ -42,9 +42,16 @@ As a Software Engineer, I specialize in developing elegant solutions that not on
 #### Development Tools
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.59-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC&labelColor=black&color=001F3F)
 - ![Postman](https://img.shields.io/badge/Postman-8.12.1-FF6C37?style=flat-square&logo=postman&labelColor=black)
+- ![Docker](https://img.shields.io/badge/Docker-latest-001F3F?style=flat-square&logo=docker&labelColor=001F3F)
 
-#### Other
+
+#### Utilities
 - ![npm](https://img.shields.io/badge/npm-7.20.3-CB3837?style=flat-square&logo=npm&labelColor=black&color=600000)
+- ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-latest-green?style=flat-square&logo=mongodb&labelColor=black)
+- ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&labelColor=D83B01)
+- ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&labelColor=black)
+- ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&labelColor=black)
+
 
 </details>
 
