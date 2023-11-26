@@ -36,6 +36,9 @@ As a Software Engineer, I specialize in developing elegant solutions that not on
 - ![Git](https://img.shields.io/badge/Git-2.32.0-F05032?style=flat-square&logo=git&labelColor=black)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
+#### DevOps
+- ![Amazon AWS (S3)](https://img.shields.io/badge/Amazon_AWS-S3-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
 #### Development Tools
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.59-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC&labelColor=black&color=001F3F)
 - ![Postman](https://img.shields.io/badge/Postman-8.12.1-FF6C37?style=flat-square&logo=postman&labelColor=black)
